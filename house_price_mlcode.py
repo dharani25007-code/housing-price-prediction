@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 pd.set_option("display.max_rows",10000)
 pd.set_option("display.max_columns",6)
-df = pd.read_csv(r'C:\Users\DHARANIDHARAN\Downloads\housing.csv')
+df = pd.read_csv('housing.csv')
 print(df)
 
 # Step 1: Load dataset
