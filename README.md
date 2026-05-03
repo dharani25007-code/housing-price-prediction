@@ -7,7 +7,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=📊+Predicting+House+Prices+with+ML;🔬+Linear+Regression+%2B+Decision+Tree;📈+Data+Preprocessing+%26+Visualization;🎯+Model+Comparison+%26+Performance+Analysis;🏆+Boston+Housing+Dataset+%7C+Python+%2B+sklearn" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <!-- Animated Status Badges -->
