@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🏠%20Housing%20Price%20Prediction&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20%7C%20Python%20%7C%20scikit-learn&descAlignY=58&descSize=18" width="100%"/>
 
